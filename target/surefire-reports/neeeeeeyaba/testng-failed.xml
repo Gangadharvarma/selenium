@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [neeeeeeyaba]">
+  <test name="solluda(failed)">
+    <classes>
+      <class name="TestNg2.firstannnotation">
+        <methods>
+          <include name="gloabalcallingvariables"/>
+          <include name="Dexecutionoffourth"/>
+          <include name="firstexecution"/>
+          <include name="Bexecutionofsecond"/>
+          <include name="Eexecutionoffivth"/>
+          <include name="beforetestexecution"/>
+          <include name="Cexecutionofthird"/>
+          <include name="Aexecutionoffirst"/>
+          <include name="AfterExecution"/>
+        </methods>
+      </class> <!-- TestNg2.firstannnotation -->
+      <class name="TestNg2.secondannoatation">
+        <methods>
+          <include name="bef"/>
+          <include name="afff"/>
+        </methods>
+      </class> <!-- TestNg2.secondannoatation -->
+      <class name="TestNg2.parameters">
+        <methods>
+          <include name="contactustesting"/>
+        </methods>
+      </class> <!-- TestNg2.parameters -->
+      <class name="TestNg2.global">
+        <methods>
+          <include name="gloabalcallingvariables"/>
+        </methods>
+      </class> <!-- TestNg2.global -->
+    </classes>
+  </test> <!-- solluda(failed) -->
+</suite> <!-- Failed suite [neeeeeeyaba] -->

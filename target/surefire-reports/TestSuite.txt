@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 8.884 s <<< FAILURE! - in TestSuite
+failedmethod(newww.tete)  Time elapsed: 3.304 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[G]oogle> but was:<[]oogle>
+	at newww.tete.failedmethod(tete.java:33)
+

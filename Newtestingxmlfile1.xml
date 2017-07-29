@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="automation test">
+<test name="smoketest1">
+	<classes>
+	<class name="TestNgFiles.firstannnotation" />
+	</classes>
+
+</test>
+
+</suite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [newframework.AppTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="newframework.AppTest">
+        <methods>
+          <include name="Aexecutionoffirst"/>
+          <include name="Dexecutionoffourth"/>
+          <include name="Cexecutionofthird"/>
+          <include name="Eexecutionoffivth"/>
+          <include name="firstexecution"/>
+          <include name="AfterExecution"/>
+          <include name="Bexecutionofsecond"/>
+        </methods>
+      </class> <!-- newframework.AppTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [newframework.AppTest] -->
