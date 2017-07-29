@@ -11,7 +11,7 @@ public class tete {
 	@BeforeMethod
 	public void slinks(){
 		
-		System.setProperty("webdriver.chrome.driver","/Users/janki/Desktop/technologyandoffice/selenium/chromedriver");
+		System.setProperty("webdriver.chrome.driver","/chromedriver");
 		driver= new ChromeDriver();
 		
 	}
